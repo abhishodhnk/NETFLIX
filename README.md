@@ -27,7 +27,6 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 - [TMDB API](https://www.themoviedb.org/)
 - [Firebase](https://firebase.google.com/)
 - [Axios](https://www.npmjs.com/package/axios)
-- [Swiper.js](https://swiperjs.com/)
 - [React-Youtube](https://www.npmjs.com/package/react-youtube)
 - [Tailwind CSS](https://tailwindcss.com/)
 
