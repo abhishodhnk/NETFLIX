@@ -5,7 +5,7 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 
 ## Screenshots
 
-![PC screen]("D:\Project\MCA PROJECT\NETFLIX CLONE\public\screenshot.png")
+![PC screen](public/screenshot.png)
 
 
 
